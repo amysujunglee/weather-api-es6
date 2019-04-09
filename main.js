@@ -46,7 +46,7 @@ window.addEventListener('load', ()=> {
                 });
             });
         });
-    }
+    } 
     
     function setIcons(icon, iconID) {
         const skycons = new Skycons({color: 'white'}); // Why "Skycones"?
